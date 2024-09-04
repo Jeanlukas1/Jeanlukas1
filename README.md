@@ -15,5 +15,5 @@
 </div><br/>
 
 ### Apaixonado por tecnologia e Música 🎸🎸🎶🥁🥁    
-### Formado no curso CNA. Inglês Avaliado por Cambridge linguaskill no nível B2
+### Formado no curso CNA. Inglês Avaliado por Cambridge teste linguaskill.
 - [liguaskill metritests](https://www.metritests.com/metrica/CandidateResultView.aspx?institution=BR500)

@@ -15,8 +15,8 @@
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div><br/>
 
-### Apaixonado por tecnologia e Música 🎸🎸🎶🥁🥁    
-### Formado no curso CNA. Inglês Avaliado por Cambridge linguaskill no nível B2
+## Apaixonado por tecnologia e Música 🎸🎸🎶🥁🥁    
+## Formado no curso CNA. Inglês Avaliado por Cambridge linguaskill no nível B2
 - [liguaskill metritests](https://www.metritests.com/metrica/CandidateResultView.aspx?institution=BR500)
 
 

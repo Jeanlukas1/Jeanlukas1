@@ -19,4 +19,4 @@
 ## Formado no curso CNA. Inglês Avaliado por Cambridge linguaskill no nível B2
 - [liguaskill metritests](https://www.metritests.com/metrica/CandidateResultView.aspx?institution=BR500)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeanlukas1&repo=github-readme-stats)](https://github.com/Jeanlukas1/Jeanlukas1/edit/main/README.md)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)

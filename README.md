@@ -15,6 +15,9 @@
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div><br/>
 
+<img src="https://streak-stats.demolab.com?user=Jeanlukas1&amp;locale=en&amp;mode=daily&amp;theme=blue-green&amp;hide_border=true&amp;border_radius=5&amp;order=3" height="150" alt="streak graph" id="yui_3_17_2_1_1729029456691_60">
+
+
 ## Apaixonado por tecnologia e Música 🎸🎸🎶🥁🥁    
 ## Formado no curso CNA. Inglês Avaliado por Cambridge linguaskill no nível B2
 - [liguaskill metritests](https://www.metritests.com/metrica/CandidateResultView.aspx?institution=BR500)

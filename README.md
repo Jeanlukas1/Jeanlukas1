@@ -51,12 +51,10 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jeanlukas1}/count.svg" /></p> 
 <br></div>
 
-<div align="center">
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeanlukas1/Jeanlukas1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeanlukas1/Jeanlukas1/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jeanlukas1/Jeanlukas1/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=120&section=footer"/>

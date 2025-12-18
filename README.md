@@ -11,7 +11,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeanlukas1&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jeanlukas1)](https://git.io/streak-stats)
 
  
 ### Main skills:

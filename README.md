@@ -7,6 +7,15 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jeanlukas1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jean Lukas github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanlukas1&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div> -->
+
+### About me:
+- 💻 Full Stack Developer focused on web applications and APIs
+- 🐍 Working mainly with Python and FastAPI
+- ⚛️ Building interfaces with React and TypeScript
+- 🗄️ Experience with PostgreSQL and Supabase
+- 🚀 Interested in software architecture, APIs and scalable systems
+- 📚 Always learning and improving my development skills
+
  
 ### Main skills:
 ![Python](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -31,6 +40,22 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
+
+### Connect with me:
+
+<p style="display: flex; justify-content: space-between;">
+  <a href="https://www.linkedin.com/in/jean-lukas-marins-costa-0998ab301">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/Jeanlukas1">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+  </a>
+
+  <a href="mailto:jeanlukasdemarinscosta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/Jeanlukas1/Jeanlukas1/output/snake.svg" alt="Snake animation" />
